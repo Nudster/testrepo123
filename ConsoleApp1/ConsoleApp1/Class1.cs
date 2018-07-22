@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        public void test()
+        public void test(string y)
         {
             int x = 2;
            
