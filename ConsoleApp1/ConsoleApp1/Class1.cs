@@ -11,6 +11,7 @@ namespace ConsoleApp1
         public void test(string y)
         {
             var x = 2;
+            y = "Testing";
            
         }
 
