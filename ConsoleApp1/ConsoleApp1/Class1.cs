@@ -16,5 +16,10 @@ namespace ConsoleApp1
             int f = 4444;
         }
 
+        public string getstring()
+        {
+            return "test";                
+        }
+
     }
 }
