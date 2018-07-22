@@ -13,7 +13,7 @@ namespace ConsoleApp1
             var x = 2;
             y = "Testing";
             int h = 3;
-           
+            int f = 4444;
         }
 
     }
